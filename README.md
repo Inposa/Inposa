@@ -1,4 +1,8 @@
-### Hi there 👋
+### Bonjour tout le monde ! 👋
+
+Je suis Inposa (ou Hippolyte Pech, à vous de voir)
+
+Je suis principalement dev NodeJs et C# sur Unity ! 
 
 <!--
 **Inposa/Inposa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
