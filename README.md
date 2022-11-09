@@ -1,10 +1,9 @@
 ### Bonjour tout le monde ! 👋
 
-Je suis Inposa (ou Hippolyte Pech, à vous de voir)
-
+Je suis Inposa
 Je suis principalement dev NodeJs et C# sur Unity ! 
 
-J'aime bien aussi bidouiller et faire des bots Discord en Nodejs. 
+J'aime bien aussi bidouiller et faire des bots Discord en Nodejs !
 
 <!--
 **Inposa/Inposa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
