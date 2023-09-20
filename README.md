@@ -1,9 +1,11 @@
 ### Bonjour tout le monde ! 👋
 
-Je suis Inposa
-Je suis principalement dev NodeJs et C# sur Unity ! 
+Je suis Inposa. (Hippolyte PECH IRL) 
+Sur mes propres projets perso je suis principalement dev sur du NodeJs et du C# sur Unity *(même si en ce moment ça semble compliqué d'être dev sur Unity...)*. 
+Côté dev pro je dev des api en Spring boot et sur la technologie Mulesoft. J'en ai également touché au dev d'api avec ExpressJS dans mes plus jeunes années.
 
-J'aime bien aussi bidouiller et faire des bots Discord en Nodejs !
+J'aime également bidouiller et m'amuser avec l'API de l'appli de discussion Discord pour créer des bot ou permettre certaines actions via Webhook.
+Pour finir, je maintiens les principaux pack de texture du serveur de jeu de rôle Herobrine.fr (serveur dont je fais partie de l'équipe d'administration et d'encadrement)
 
 <!--
 **Inposa/Inposa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
